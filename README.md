@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on pre-work for the TechElevator coding bootcamp
-- 🌱 I’m currently learning about Git and GitHub
 - 😄 Pronouns: she/her
 - ⚡ Fun facts:
     - 🇺🇸🇹🇭 I am a dual citizen
